@@ -1,5 +1,5 @@
 # AI-ML
-These are all my files related to Artifical Intelligence, Machine Learning and Data Science. Some are neural networks from scratch and others are using sklearn.
+These are all my files related to Artifical Intelligence, Machine Learning and Data Science. Some are neural networks from scratch and others use the [Sklearn](https://scikit-learn.org/stable/) library.
 
 
 Languages Used in Repo:
